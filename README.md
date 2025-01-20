@@ -27,11 +27,3 @@ I am an aspiring .NET Developer with a strong foundation in C#, ASP.NET Core, SQ
 ### Badges
 
 <a href="https://github.com/yoonpyae" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonpyae&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/yoonpyae/Potato-Chips-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonpyae&repo=Potato-Chips-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yoonpyae/Tic-Tac-Toe-Game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonpyae&repo=Tic-Tac-Toe-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/yoonpyae/Social-Media-Campaign-Ldt.--SMC-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonpyae&repo=Social-Media-Campaign-Ldt.--SMC-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yoonpyae/Text-To-Voice-Converter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yoonpyae&repo=Text-To-Voice-Converter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
