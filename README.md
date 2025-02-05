@@ -1,10 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yoon Pyae Eain
-======================================================================================================================================
-
-Web Developer and C# .NET Developer
------------------------------------
-
-I am an aspiring .NET Developer with a strong foundation in C#, ASP.NET Core, SQL Server, and frontend technologies like HTML, CSS, JavaScript, and Bootstrap. I am passionate about backend development, API design, database management, and building scalable applications. During my academic journey, I have developed several real-world projects, including: Purchase and Storage System (SQL Server): Built an inventory system that streamlined stock management and reduced errors. Home Appliance Rental System (C#, OOP): Designed an application where admins can manage appliances and customers can create accounts. Mathematical Test Program (VB.NET): Created an interactive quiz platform for primary school students. Point-of-Sale System (SQL Server): Developed a system to manage daily sales, purchases, and transactions efficiently. I have a strong grasp of object-oriented programming (OOP), CRUD operations, relational databases, and responsive web development. I am constantly expanding my skill set and keeping up with industry best practices to improve my development abilities. Currently, I am seeking an internship or junior developer role where I can apply my knowledge in a real-world setting, collaborate with experienced professionals, and continue growing as a software developer. I believe in writing clean, efficient, and maintainable code, and I enjoy problem-solving and working on challenging projects. My goal is to become a proficient full-stack .NET developer and contribute to impactful software solutions. 📩 Feel free to connect with me to discuss technology, software development, and new opportunities!
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi!
 
 * 🌍  I'm based in Yangon, Myanmar
 * 🖥️  See my portfolio at [My Portfolio](http://https://yoonpyaeeain.netlify.app/)
