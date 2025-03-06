@@ -3,7 +3,7 @@
 * 🌍  I'm based in Yangon, Myanmar
 * 🖥️  See my portfolio at [My Portfolio](http://https://yoonpyaeeain.netlify.app/)
 * ✉️  You can contact me at [yoonpyae26@gmail.com](mailto:yoonpyae26@gmail.com)
-* 🚀  I'm currently working on [Potato Chips Web](http://potato-chips-website-by-ype.netlify.app/)
+* 🚀  I'm currently working on [Angular_hr Project](https://github.com/yoonpyae/angular-hr)
 * 🧠  I'm learning PHP, C#, .NET and Java Script
 
 ### Skills
