@@ -6,7 +6,7 @@
 * 🚀  I'm currently working on [Angular_hr Project](https://github.com/yoonpyae/angular-hr)
 * 🧠  I'm learning PHP, C#, .NET and Java Script
 
-### Skills
+### Some Tools I Have Used and Learned
 
 
 <p align="left">
