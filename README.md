@@ -3,8 +3,10 @@
 * 🌍  I'm based in Yangon, Myanmar
 * 🖥️  See my portfolio at [My Portfolio](http://https://yoonpyaeeain.netlify.app/)
 * ✉️  You can contact me at [yoonpyae26@gmail.com](mailto:yoonpyae26@gmail.com)
-* 🚀  I'm currently working on [Angular_hr Project](https://github.com/yoonpyae/angular-hr)
-* 🧠  I'm learning PHP, C#, .NET and Java Script
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoonpyae&show_icons=true&theme=tokyonight&hide=contribs,issues,prs)
+
 
 ### Some Tools I Have Used and Learned
 
@@ -18,6 +20,5 @@
 
 <p align="left"> <a href="https://www.github.com/yoonpyae" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yoon-pyae-eain-4532742a2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<a href="https://github.com/yoonpyae" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonpyae&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonpyae&layout=compact&theme=tokyonight) 
