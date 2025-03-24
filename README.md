@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** C#, JavaScript, PHP, HTML, CSS
 - **Frameworks & Libraries:** .NET, React, Bootstrap
-- **Databases:** MySQL
+- **Databases:** MySQL, MMSQL
 - **Tools & Platforms:** VS Code, Google Cloud, Figma, Photoshop
 
 
