@@ -5,10 +5,10 @@
 * ✉️  Reach me at [yoonpyae26@gmail.com](mailto:yoonpyae26@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoonpyae&show_icons=true&theme=tokyonight&hide=contribs,issues,prs)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonpyae&layout=compact&theme=tokyonight) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoonpyae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonpyae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 ### 🛠️ Tech Stack
