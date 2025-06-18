@@ -4,6 +4,7 @@
 * 🏗️  Building cool projects and always learning new tech
 * ✉️  Reach me at [yoonpyae26@gmail.com](mailto:yoonpyae26@gmail.com)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoonpyae&theme=microsoft-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoonpyae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
