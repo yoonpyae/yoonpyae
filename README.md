@@ -4,12 +4,6 @@
 * 🏗️  Building cool projects and always learning new tech
 * ✉️  Reach me at [yoonpyae26@gmail.com](mailto:yoonpyae26@gmail.com)
 
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yoonpyae&theme=dark&hide_border=false" height="150" />
-</div>
-
-
 ### 🛠️ Tech Stack
 - **Languages:** C#, JavaScript, PHP, HTML, CSS
 - **Frameworks & Libraries:** .NET, React, Bootstrap
