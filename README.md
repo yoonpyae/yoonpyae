@@ -52,7 +52,8 @@ Currently improving my skills in modern frontend development while gaining solid
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonpyae&layout=compact&theme=dracula" height="150" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonpyae&layout=compact&theme=dracula)
+</p>
 
 ---
 
