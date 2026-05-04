@@ -1,18 +1,63 @@
-## 👋 Hey there! I'm Yoon Pyae Eain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+## 👋 Hey, I'm Yoon Pyae Eain  
 
-* 🌍  I'm based in Yangon, Myanmar
-* 🏗️  Building cool projects and always learning new tech
-* ✉️  Reach me at [yoonpyae26@gmail.com](mailto:yoonpyae26@gmail.com)
+💻 **ASP.NET Developer | Frontend Enthusiast**  
+🌍 Based in Yangon, Myanmar  
+
+I build real-world web applications with a focus on clean UI, maintainable code, and practical business logic.  
+Currently improving my skills in modern frontend development while gaining solid experience in .NET systems.
+
+---
+
+### 🚀 What I'm Working On
+- 🔹 Building scalable web apps using **ASP.NET & Angular**
+- 🔹 Improving UI/UX with **modern frontend practices**
+- 🔹 Learning deeper **TypeScript & system design**
+
+---
 
 ### 🛠️ Tech Stack
-- **Languages:** C#, JavaScript, PHP, HTML, CSS
-- **Frameworks & Libraries:** .NET, React, Bootstrap
-- **Databases:** MySQL, MMSQL
-- **Tools & Platforms:** VS Code, Google Cloud, Figma, Photoshop
 
+**💡 Core Skills**
+- C#, ASP.NET (.NET Framework / .NET Core)
+- JavaScript, TypeScript
+- SQL Server, MySQL
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonpyae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+**🎨 Frontend**
+- Angular, React (basic)
+- HTML, CSS, Tailwind CSS, Bootstrap, PrimeNG
 
-### Socials
+**⚙️ Tools**
+- VS Code, Git
+- Azure DevOps (learning)
+- Figma, Photoshop
 
-<p align="left"> <a href="https://www.github.com/yoonpyae" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yoon-pyae-eain-4532742a2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+### 📌 Featured Projects
+
+- 🔗 **OPD Management System**  
+  Web-based system for managing outpatient bookings, patient records, and voucher workflows. Includes dynamic form handling, validation, and real-time data updates for efficient clinic operations.  
+  **Tech:** ASP.NET, Angular, PrimeNG, Tailwind CSS, SQL Server  
+
+- 🔗 **POS System**  
+  Point-of-sale system designed to handle daily sales transactions, product management, and receipt generation. Features real-time calculation, order processing, and a simple, user-friendly interface for fast checkout.  
+  **Tech:** PHP, JavaScript, MySQL  
+
+- 🔗 **Inventory Management System**  
+  System for tracking stock levels, managing product entries, and monitoring inventory movements. Includes CRUD operations, stock updates, and basic reporting to support inventory control.  
+  **Tech:** PHP, JavaScript, MySQL  
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonpyae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+- 📧 yoonpyae26@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/yoonpyae  
+- 🐙 GitHub: https://github.com/yoonpyae
