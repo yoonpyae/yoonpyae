@@ -48,16 +48,4 @@ Currently improving my skills in modern frontend development while gaining solid
   System for tracking stock levels, managing product entries, and monitoring inventory movements. Includes CRUD operations, stock updates, and basic reporting to support inventory control.  
   **Tech:** PHP, JavaScript, MySQL  
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonpyae&layout=compact&theme=dracula)
-</p>
-
----
-
-### 🤝 Connect With Me
-- 📧 yoonpyae26@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/yoonpyae  
-- 🐙 GitHub: https://github.com/yoonpyae
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
