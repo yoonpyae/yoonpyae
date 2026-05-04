@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+
 ## 👋 Hey, I'm Yoon Pyae Eain  
 
-💻 **ASP.NET Developer | Frontend Enthusiast**  
+💻 ASP.NET Developer | Frontend Enthusiast  
 🌍 Based in Yangon, Myanmar  
 
 I build real-world web applications with a focus on clean UI, maintainable code, and practical business logic.  
