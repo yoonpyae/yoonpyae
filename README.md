@@ -2,36 +2,55 @@
 
 ## 👋 Hey, I'm Yoon Pyae Eain  
 
-💻 ASP.NET Developer | Frontend Enthusiast  
+📊 Business Analyst | AI-Assisted Requirements & Process Analysis  
+💻 Developer Background — ASP.NET, Angular  
 🌍 Based in Yangon, Myanmar  
 
-I build real-world web applications with a focus on clean UI, maintainable code, and practical business logic.  
-Currently improving my skills in modern frontend development while gaining solid experience in .NET systems.
+I translate business needs into BRD/FRD documentation, process models, and test plans — blending
+domain analysis with a developer's eye for technical feasibility, and deliberate AI prompt
+workflows (ChatGPT, Claude, Gemini) to compress requirements discovery and documentation from
+days to hours.
 
 ---
 
 ### 🚀 What I'm Working On
-- 🔹 Building scalable web apps using **ASP.NET & Angular**
-- 🔹 Improving UI/UX with **modern frontend practices**
-- 🔹 Learning deeper **TypeScript & system design**
+- 🔹 Authoring **BRD, FRD, SRS, user stories & acceptance criteria** across ERP, healthcare, and e-commerce projects
+- 🔹 Running **AI-driven rapid prototyping** and cloud demos (Vercel, Neon/PostgreSQL) for stakeholder validation
+- 🔹 Modelling **AS-IS/TO-BE processes, workflows & sequence diagrams**, validated with UI/UX in Figma
+- 🔹 Owning **UAT scenarios, test scripts, and sign-off documentation**
+
+---
+
+### 📊 Business Analysis Focus
+- **ERP, Inventory & Finance** — multi-branch inventory, FIFO valuation, purchase-to-accounting flows
+- **Healthcare / Clinic Management** — clinic workflows, dashboards, technical & security risk assessment
+- **E-commerce & Retail** — catalog, checkout, and payment gateway integration mapping
+- **CRM & UAT** — booking/treatment workflows, test data design, defect tracking
+- **HR** — business rules, approval chains, role permissions
 
 ---
 
 ### 🛠️ Tech Stack
 
-**💡 Core Skills**
-- C#, ASP.NET (.NET Framework / .NET Core)
-- JavaScript, TypeScript
-- SQL Server, MySQL
+**📋 Analysis & Documentation**
+- BRD, FRD, SRS, use cases, acceptance criteria
+- AS-IS/TO-BE modelling, gap analysis, traceability
+- UML & sequence diagrams, UAT scripts, defect logs
 
-**🎨 Frontend**
-- Angular, React (basic)
-- HTML, CSS, Tailwind CSS, Bootstrap, PrimeNG
+**🤖 AI Tooling**
+- ChatGPT, Claude, Gemini
+- Prompt design for requirements, documentation & test generation
+- AI-assisted prototyping and proof-of-concept demos
+
+**💡 Technical**
+- C#, ASP.NET (.NET Framework / .NET Core)
+- Angular, TypeScript, JavaScript
+- SQL Server, MySQL, PostgreSQL/Neon, REST APIs
 
 **⚙️ Tools**
-- VS Code, Git
-- Azure DevOps (learning)
-- Figma, Photoshop
+- Figma, Microsoft Visio
+- Git/GitHub, Vercel, Azure DevOps
+- Agile, Scrum, DSDM
 
 ---
 
@@ -48,5 +67,10 @@ Currently improving my skills in modern frontend development while gaining solid
 - 🔗 **Inventory Management System**  
   System for tracking stock levels, managing product entries, and monitoring inventory movements. Includes CRUD operations, stock updates, and basic reporting to support inventory control.  
   **Tech:** PHP, JavaScript, MySQL  
+
+---
+
+### 🔗 Links
+[Portfolio](https://yoonpyae.netlify.app) · [LinkedIn](https://linkedin.com/in/yoonpyae)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
